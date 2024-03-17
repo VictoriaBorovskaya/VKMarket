@@ -55,7 +55,7 @@ function Cart() {
       <Caption style={{ color: 'var(--vkui--color_text_secondary)' }}>
         Без учёта доставки, оплата VK Pay или по договорённости с продавцом
       </Caption>
-      <Button size="m">Перейти к оформлению</Button>
+      <Button size="m">Оформить</Button>
     </Div>
   );
 }
